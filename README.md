@@ -49,8 +49,6 @@ It confirms the server is running and serving content.
 Shows the folder `C:\inetpub\wwwroot`.
 
 
-**TEST IT:** http://localhost/
-
 <img width="814" height="171" alt="web folder structure" src="https://github.com/user-attachments/assets/d2af5137-9c42-4b30-b4ff-a144e5dff391" />
 
 
