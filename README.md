@@ -32,7 +32,7 @@ It allows administrators to manage the server and websites.
 ## 3. Browser Test – Default IIS Page
 
 **Explanation:**
-Shows the default IIS Welcome page at `http://localhost`.
+Shows the default IIS Welcome page at http://localhost .
 It confirms the server is running and serving content.
  
 
