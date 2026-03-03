@@ -34,6 +34,7 @@ It allows administrators to manage the server and websites.
 **Explanation:**
 Shows the default IIS Welcome page at `http://localhost`.
 It confirms the server is running and serving content.
+Test it http://localhost/ 
 
 <img width="882" height="589" alt="03_Browser_Localhost" src="https://github.com/user-attachments/assets/135238b6-451b-42f8-92d1-07f31802beec" />
 
