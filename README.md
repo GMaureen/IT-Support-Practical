@@ -64,6 +64,13 @@ Shows the folder `C:\inetpub\wwwroot`.
 This shows the custom page I created.
 It confirms the server can serve modified content successfully.
 
+## Services / Terms
+
+| Service / Term | What it does in this setup |
+|----------------|----------------------------|
+| **IIS (Internet Information Services)** | The Web Server. It listens for incoming requests (Port 80) and serves your HTML files. |
+| **HTTP** | The protocol that allows the browser and server to communicate. |
+| **Localhost (127.0.0.1)** | The loopback address. It tells your computer to look at itself rather than the internet. |
 ---
 
 ## Summary
