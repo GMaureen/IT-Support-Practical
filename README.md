@@ -32,9 +32,8 @@ It allows administrators to manage the server and websites.
 ## 3. Browser Test – Default IIS Page
 
 **Explanation:**
-Shows the default IIS Welcome page at http://localhost .
-It confirms the server is running and serving content.
- 
+It contains all files that IIS serves, including the default page.
+file:///C:/inetpub/wwwroot/iisstart.htm 
 
 <img width="882" height="589" alt="03_Browser_Localhost" src="https://github.com/user-attachments/assets/135238b6-451b-42f8-92d1-07f31802beec" />
 
@@ -44,8 +43,11 @@ It confirms the server is running and serving content.
 ## 4. Web Folder Structure
 
 **Explanation:**
+Shows the default IIS Welcome page at http://localhost .
+It confirms the server is running and serving content.
+
 Shows the folder `C:\inetpub\wwwroot`.
-It contains all files that IIS serves, including the default page.
+
 
 **TEST IT:** http://localhost/
 
