@@ -33,7 +33,7 @@ It allows administrators to manage the server and websites.
 
 **Explanation:**
 It contains all files that IIS serves, including the default page.
-file:///C:/inetpub/wwwroot/iisstart.htm 
+`file:///C:/inetpub/wwwroot/iisstart.htm`. 
 
 <img width="882" height="589" alt="03_Browser_Localhost" src="https://github.com/user-attachments/assets/135238b6-451b-42f8-92d1-07f31802beec" />
 
