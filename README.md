@@ -34,7 +34,7 @@ It allows administrators to manage the server and websites.
 **Explanation:**
 Shows the default IIS Welcome page at `http://localhost`.
 It confirms the server is running and serving content.
-Test it http://localhost/ 
+ 
 
 <img width="882" height="589" alt="03_Browser_Localhost" src="https://github.com/user-attachments/assets/135238b6-451b-42f8-92d1-07f31802beec" />
 
@@ -47,7 +47,10 @@ Test it http://localhost/
 Shows the folder `C:\inetpub\wwwroot`.
 It contains all files that IIS serves, including the default page.
 
-<img width="816" height="275" alt="04_WebFolder_Structure" src="https://github.com/user-attachments/assets/1f00020a-4bb8-46e9-b606-8b820ec0ef03" />
+**TEST IT:** http://localhost/
+
+<img width="814" height="171" alt="web folder structure" src="https://github.com/user-attachments/assets/d2af5137-9c42-4b30-b4ff-a144e5dff391" />
+
 
 
 ---
